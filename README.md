@@ -13,10 +13,6 @@ I possess extensive technical and professional expertise across multiple modern 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ujjwal7777777&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ujjwal7777777&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
-
 <!--
 **ujjwal7777777/ujjwal7777777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
