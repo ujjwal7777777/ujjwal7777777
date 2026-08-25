@@ -196,7 +196,7 @@ A data intelligence approach combining predictive machine learning, time-series 
 
 ### Finance Analyst — Margin Sentiment Advisorys Pvt Ltd
 
-**Delhi, India · February 2023 – April 2023**
+**Delhi, India ·**
 
 Applied analytical and quantitative thinking within a finance-oriented professional environment while developing experience in business analysis and enterprise decision-making.
 
@@ -230,21 +230,9 @@ Applied analytical and quantitative thinking within a finance-oriented professio
 
 ## Certifications
 
-### AWS
+### IIT ROORKEE
 
-<img src="https://img.shields.io/badge/AWS-Certifications-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Certifications-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Certifications-6366F1?style=for-the-badge&logoColor=white"/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Certifications-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Certifications-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>   
 
 ---
 
@@ -276,9 +264,9 @@ Applied analytical and quantitative thinking within a finance-oriented professio
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ujjwal7777777&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal7777777&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
 
 </div>
 
@@ -286,7 +274,7 @@ Applied analytical and quantitative thinking within a finance-oriented professio
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" />
+<img src="https://streak-stats.demolab.com?user=ujjwal7777777&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" />
 
 </div>
 
@@ -296,7 +284,7 @@ Applied analytical and quantitative thinking within a finance-oriented professio
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=ujjwal7777777&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -306,7 +294,7 @@ Applied analytical and quantitative thinking within a finance-oriented professio
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=8B5CF6&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwal7777777&bg_color=0D1117&color=8B5CF6&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -316,12 +304,9 @@ Applied analytical and quantitative thinking within a finance-oriented professio
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/ujjwal7777777/ujjwal7777777/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
-
----
-
 ## Current Focus
 
 ```yaml
