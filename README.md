@@ -234,78 +234,6 @@ Applied analytical and quantitative thinking within a finance-oriented professio
 
 ---
 
-## Coding Profiles
-
-<div align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ujjwal7777777&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal7777777&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ujjwal7777777&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ujjwal7777777&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwal7777777&bg_color=0D1117&color=8B5CF6&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ujjwal7777777/ujjwal7777777/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
 ## Current Focus
 
 ```yaml
@@ -339,32 +267,6 @@ open_to:
 ```
 
 ---
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:your-ujjwaldeshwal96@email.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-https://www.linkedin.com/in/ujjwal-deshwal-148719309?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ujjwal7777777">
-<img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
 
 > **"Building intelligent systems where engineering, AI, and enterprise strategy converge."**
 
