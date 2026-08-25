@@ -230,7 +230,7 @@ Applied analytical and quantitative thinking within a finance-oriented professio
 
 ## Certifications
 
-### IIT ROORKEE
+### IIT ROORKEE (Agentic AI amd Design)
 
 <img src="https://img.shields.io/badge/AWS-Certifications-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>   
 
@@ -307,6 +307,7 @@ Applied analytical and quantitative thinking within a finance-oriented professio
 <img src="https://raw.githubusercontent.com/ujjwal7777777/ujjwal7777777/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
+
 ## Current Focus
 
 ```yaml
