@@ -230,9 +230,7 @@ Applied analytical and quantitative thinking within a finance-oriented professio
 
 ## Certifications
 
-### IIT ROORKEE (Agentic AI amd Design)
-
-<img src="https://img.shields.io/badge/AWS-Certifications-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>   
+### IIT ROORKEE (Agentic AI and Design)
 
 ---
 
@@ -346,15 +344,15 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:your-ujjwaldeshwal96@email.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-https://www.linkedin.com/in/ujjwal-deshwal-148719309?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/ujjwal7777777">
 <img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
