@@ -1,29 +1,391 @@
-# 💫 About Me:
-I possess extensive technical and professional expertise across multiple modern technology and business domains. My primary programming languages include Python, TypeScript, JavaScript, Go, C++, and Rust, which I utilize to build intelligent systems. I specialize in artificial intelligence and machine learning, with deep proficiency in Agentic AI workflows, Large Language Models (LLMs), Multi-Agent Systems, Retrieval-Augmented Generation (RAG), and frameworks like LangGraph, LangChain, PyTorch, and TensorFlow. On the backend and infrastructure side, I engineer robust systems using FastAPI, Node.js, RESTful APIs, GraphQL, and microservices architectures, which I containerize and deploy using Docker, Kubernetes, and CI/CD pipelines across AWS, Azure, and Google Cloud Platform (GCP). My data and systems management skills cover PostgreSQL, MongoDB, Redis, MySQL, Elasticsearch, Linux system administration, Git, Terraform, and Apache Kafka. Additionally, I blend these technical skills with strong business acumen, regularly performing complex data analysis, financial analysis, supply chain optimization, market research, and strategic planning.
+# 👋 Hi, I'm Ujjwal Deshwal
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ujjwal_deshwal7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-deshwal-148719309) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/UjjwalDeshwal15) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ujjwaldeshwal6926) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ujjwaldeshwal96@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=220&section=header&text=Ujjwal%20Deshwal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20MBA%20Candidate&descAlignY=58&descSize=18" width="100%"/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white) ![Dgraph](https://img.shields.io/badge/dgraph-%23E50695.svg?style=for-the-badge&logo=dgraph&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ujjwal7777777&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ujjwal7777777&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ujjwal7777777&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Software+Engineering+%7C+AI%2FML;Multi-Agent+AI+Systems;Event-Driven+Architectures;Predictive+Machine+Learning;Supply+Chain+AI+%26+Automation;Building+Systems+That+Create+Enterprise+Value" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MBA%20Candidate-2025--2027-6366F1?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-Python%20%7C%20TypeScript-7C3AED?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Location-Delhi%2C%20India-4F46E5?style=for-the-badge&labelColor=111827"/>
+
+<br/><br/>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=7C3AED&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=4F46E5&label=STARS"/>
+
+</div>
 
 ---
-<!--
-**ujjwal7777777/ujjwal7777777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Strategic and technically proficient **MBA Candidate (2025–2027)** with a strong foundation in **Software Engineering, Economics, AI/ML, and enterprise technology architecture**.
+
+I specialize in designing and building **autonomous multi-agent AI ecosystems**, **high-throughput event-driven architectures**, and intelligent software systems that address complex operational and supply-chain challenges.
+
+My engineering approach combines technical execution with a **product and business-value mindset** — using predictive machine learning, time-series processing, and multi-variable optimization to improve enterprise decision-making, asset utilization, and operational efficiency.
+
+### Engineering Focus
+
+* **Software Engineering** — Python, TypeScript, backend engineering & distributed systems
+* **AI / ML** — Predictive ML, intelligent automation, multi-agent AI ecosystems
+* **Architecture** — Event-Driven Architectures, distributed systems & scalable backend platforms
+* **Data Intelligence** — Time-series processing & multi-variable optimization
+* **Product Engineering** — AI automation, technical product strategy & enterprise solutions
+* **Operations** — Supply chain, logistics, smart warehousing & robotics
+
+### Open To
+
+`Software Engineering` `AI Engineering` `ML Engineering` `Backend Engineering` `AI Product Engineering` `Supply Chain AI` `Automation` `Technical Product Management`
+
+---
+
+## Tech Stack
+
+### Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp&theme=dark" />
+
+</div>
+
+### Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+
+</div>
+
+### Backend & Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,postgres,mongodb,redis&theme=dark" />
+
+</div>
+
+### Cloud, DevOps & Tooling
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,linux,vscode&theme=dark" />
+
+</div>
+
+---
+
+## AI / ML Expertise
+
+| Domain                      | Proficiency | Details                                                       |
+| --------------------------- | :---------: | ------------------------------------------------------------- |
+| Multi-Agent AI              |   Advanced  | Autonomous AI ecosystems and agent orchestration              |
+| Predictive Machine Learning |   Advanced  | Predictive intelligence for operational decision-making       |
+| Time-Series Processing      |   Advanced  | Processing and analyzing temporal operational data            |
+| Multi-Variable Optimization |   Advanced  | Optimization across complex enterprise constraints            |
+| AI Automation               |   Advanced  | Intelligent automation for operational workflows              |
+| AI Product Engineering      |   Advanced  | Bridging AI capabilities with enterprise product requirements |
+| Supply Chain AI             |   Advanced  | AI-driven logistics, operations and supply-chain optimization |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><strong>🤖 Autonomous Multi-Agent AI Ecosystem</strong></summary>
+
+### Autonomous Multi-Agent AI Ecosystem
+
+An enterprise-oriented multi-agent AI architecture designed to coordinate specialized autonomous agents for complex business and operational workflows.
+
+| Metric          | Details                                                     |
+| --------------- | ----------------------------------------------------------- |
+| **Stack**       | Python · TypeScript · AI/ML · Distributed Systems           |
+| **Scale**       | Multi-agent architecture                                    |
+| **Performance** | Designed for autonomous workflow execution                  |
+| **Security**    | Modular architecture with controlled agent responsibilities |
+| **Impact**      | Automation of complex operational decision workflows        |
+| **Repository**  | [View Repository](#)                                        |
+
+### Engineering Scope
+
+* Designed autonomous agent-based system architecture
+* Structured specialized agents around individual responsibilities
+* Integrated AI reasoning with operational workflows
+* Focused on scalability, modularity and enterprise applicability
+* Applied product-engineering principles to AI system design
+
+</details>
+
+<details>
+<summary><strong>⚡ Event-Driven Architecture Systems</strong></summary>
+
+### High-Throughput Event-Driven Architecture
+
+Architecture-focused engineering work centered around event-driven systems capable of processing operational events asynchronously and reliably.
+
+| Metric          | Details                                                 |
+| --------------- | ------------------------------------------------------- |
+| **Stack**       | Python · TypeScript · Distributed Systems · EDA         |
+| **Scale**       | High-throughput event processing                        |
+| **Performance** | Asynchronous and event-driven processing                |
+| **Security**    | Service isolation and controlled event flows            |
+| **Impact**      | Reduced architectural coupling and improved scalability |
+| **Repository**  | [View Repository](#)                                    |
+
+### Engineering Scope
+
+* Designed event-driven application architectures
+* Applied asynchronous processing patterns
+* Structured services around event-based communication
+* Focused on reliability, scalability and system decoupling
+
+</details>
+
+<details>
+<summary><strong>📊 Predictive Operations Intelligence</strong></summary>
+
+### Predictive Operations Intelligence Platform
+
+A data intelligence approach combining predictive machine learning, time-series processing and optimization for operational decision-making.
+
+| Metric          | Details                                                    |
+| --------------- | ---------------------------------------------------------- |
+| **Stack**       | Python · Machine Learning · Time-Series · Optimization     |
+| **Scale**       | Multi-variable operational datasets                        |
+| **Performance** | Predictive and analytical processing                       |
+| **Security**    | Data-oriented architecture                                 |
+| **Impact**      | Improved operational intelligence and resource utilization |
+| **Repository**  | [View Repository](#)                                       |
+
+### Engineering Scope
+
+* Developed predictive intelligence concepts for operational data
+* Applied time-series processing techniques
+* Used multi-variable optimization for complex constraints
+* Connected technical models with enterprise decision-making
+
+</details>
+
+---
+
+## Experience
+
+### Finance Analyst — Margin Sentiment Advisorys Pvt Ltd
+
+**Delhi, India · February 2023 – April 2023**
+
+Applied analytical and quantitative thinking within a finance-oriented professional environment while developing experience in business analysis and enterprise decision-making.
+
+#### Scope
+
+* Performed financial and analytical activities
+* Worked with business-oriented datasets and information
+* Supported analytical decision-making processes
+* Developed practical exposure to financial operations and enterprise workflows
+
+**Skills:** `Financial Analysis` `Business Analysis` `Quantitative Analysis` `Research`
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition              | Details                                                         |
+| ------------------------ | --------------------------------------------------------------- |
+| **AI Engineering**       | Architecting autonomous multi-agent AI ecosystems               |
+| **Software Engineering** | Strong foundation in Python, TypeScript and backend engineering |
+| **Systems Architecture** | Event-Driven Architecture and distributed systems               |
+| **Data Intelligence**    | Predictive ML, time-series processing and optimization          |
+| **Operations**           | Supply chain, logistics and smart-warehouse technology          |
+| **Product Engineering**  | Bridging technical execution with enterprise strategy           |
+
+</div>
+
+---
+
+## Certifications
+
+### AWS
+
+<img src="https://img.shields.io/badge/AWS-Certifications-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+### Oracle
+
+<img src="https://img.shields.io/badge/Oracle-Certifications-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+### NPTEL
+
+<img src="https://img.shields.io/badge/NPTEL-Certifications-6366F1?style=for-the-badge&logoColor=white"/>
+
+### Cisco
+
+<img src="https://img.shields.io/badge/Cisco-Certifications-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=8B5CF6&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+learning:
+  - Advanced AI Engineering
+  - Multi-Agent Systems
+  - Distributed Systems
+  - Predictive Machine Learning
+  - Event-Driven Architecture
+
+building:
+  - Autonomous AI Agents
+  - Enterprise Automation Systems
+  - AI-powered Operational Platforms
+  - Scalable Backend Systems
+
+exploring:
+  - Generative AI
+  - Agentic AI
+  - Supply Chain Intelligence
+  - Smart Warehousing
+  - Robotics
+
+open_to:
+  - Software Engineering
+  - AI Engineering
+  - ML Engineering
+  - Backend Engineering
+  - AI Product Engineering
+  - Technical Product Management
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> **"Building intelligent systems where engineering, AI, and enterprise strategy converge."**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=120&section=footer" width="100%"/>
+
+</div>
