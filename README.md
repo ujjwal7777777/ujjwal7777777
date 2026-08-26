@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<a href="https://worldofujjwaldeshwal.lovable.app/">
+<a href="https://ujjwaldeshwal7.lovable.app">
 <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/ujjwal-deshwal-148719309">
@@ -368,7 +368,7 @@ open_to:
 <img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://worldofujjwaldeshwal.lovable.app/">
+<a href="https://ujjwaldeshwal7.lovable.app">
 <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
