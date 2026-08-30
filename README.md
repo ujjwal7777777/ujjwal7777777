@@ -254,15 +254,6 @@ Worked in a finance-oriented professional environment, applying analytical and q
 </div>
 
 ---
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ujjwal7777777&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
----
 ## Current Focus
 
 ```yaml
