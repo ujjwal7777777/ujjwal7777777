@@ -254,27 +254,6 @@ Worked in a finance-oriented professional environment, applying analytical and q
 </div>
 
 ---
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ujjwal7777777&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal7777777&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ujjwal7777777&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6"/>
-
-</div>
-
----
-
 ## GitHub Trophies
 
 <div align="center">
@@ -284,40 +263,6 @@ Worked in a finance-oriented professional environment, applying analytical and q
 </div>
 
 ---
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwal7777777&bg_color=0D1117&color=8B5CF6&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ujjwal7777777/ujjwal7777777/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ujjwal7777777/ujjwal7777/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/ujjwal7777777/ujjwal7777/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
-
----
-
 ## Current Focus
 
 ```yaml
