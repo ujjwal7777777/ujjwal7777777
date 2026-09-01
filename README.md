@@ -56,7 +56,7 @@ My engineering approach combines technical execution with a **product and enterp
 
 ### Open To
 
-`Software Engineering` `AI Engineering` `ML Engineering` `Backend Engineering` `AI Product Engineering` `Supply Chain AI` `Automation` `Technical Product Management`
+`AI Engineering` `Backend Engineering` `AI Product Engineering` `Supply Chain AI` `Automation` `Technical Product Management`
 
 ---
 
