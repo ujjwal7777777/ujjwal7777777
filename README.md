@@ -154,7 +154,7 @@ Architecture-focused engineering work centered around event-driven systems for a
 | **Impact**      | Reduced coupling and improved system scalability |
 | **Repository**  | `ADD_REPOSITORY_URL`                             |
 
-### Engineering Scope
+### Engineering Scope 
 
 * Designed event-driven application architectures
 * Applied asynchronous processing patterns
