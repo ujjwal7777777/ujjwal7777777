@@ -54,11 +54,6 @@ My engineering approach combines technical execution with a **product and enterp
 * **Product Engineering** — AI automation and technical product strategy
 * **Operations Technology** — Supply chain, logistics, smart warehousing and robotics
 
-### Open To
-
-`AI Engineering` `Backend Engineering` `AI Product Engineering` `Supply Chain AI` `Automation` `Technical Product Management`
-
----
 
 ## Tech Stack
 
