@@ -275,7 +275,6 @@ exploring:
 open_to:
   - Software Engineering
   - AI Engineering
-  - ML Engineering
   - Backend Engineering
   - AI Product Engineering
   - Technical Product Management
