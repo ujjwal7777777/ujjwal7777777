@@ -116,7 +116,7 @@ An enterprise-oriented architecture for coordinating specialized autonomous AI a
 
 | Attribute       | Details                                                 |
 | --------------- | ------------------------------------------------------- |
-| **Stack**       | Python · TypeScript · AI/ML · Distributed Systems       |
+| **Stack**       | Python | TypeScript | AI/ML | Distributed Systems       |
 | **Scale**       | Multi-agent architecture                                |
 | **Performance** | Designed for autonomous workflow execution              |
 | **Security**    | Modular agent responsibilities and controlled execution |
