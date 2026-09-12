@@ -39,7 +39,7 @@
 
 ## About
 
-Strategic and technically proficient **MBA Candidate (2025–2027)** with a deep foundation in **Software Engineering, Python, TypeScript, and Economics**.
+Strategic and technically proficient **MBA Candidate (2025–2027)** with a deep foundation in **Software Engineering, Python and Economics**.
 
 I focus on architecting **autonomous multi-agent AI ecosystems** and **high-throughput Event-Driven Architectures (EDA)** to solve complex supply-chain and operational challenges.
 
