@@ -43,7 +43,7 @@ Strategic and technically proficient **MBA Candidate (2025–2027)** with a deep
 
 I focus on architecting **autonomous multi-agent AI ecosystems** and **high-throughput Event-Driven Architectures (EDA)** to solve complex supply-chain and operational challenges.
 
-My engineering approach combines technical execution with a **product and enterprise strategy mindset**, leveraging predictive machine learning, time-series data processing, and multi-variable optimization to improve decision-making, asset utilization, and operational efficiency.
+My engineering approach combines technical execution with a **product and enterprise strategy mindset**, time-series data processing, and multi-variable optimization to improve decision-making, asset utilization, and operational efficiency.
 
 ### Core Engineering Focus
 
