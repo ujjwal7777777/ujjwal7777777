@@ -47,12 +47,12 @@ My engineering approach combines technical execution with a **product and enterp
 
 ### Core Engineering Focus
 
-* **Software Engineering** — Python, TypeScript, backend engineering and distributed systems
-* **AI / ML** — Multi-agent AI, predictive machine learning and intelligent automation
-* **Architecture** — Event-Driven Architecture and distributed systems
-* **Data Intelligence** — Time-series processing and multi-variable optimization
-* **Product Engineering** — AI automation and technical product strategy
-* **Operations Technology** — Supply chain, logistics, smart warehousing and robotics
+* **Software Engineering** — Python, TypeScript, backend engineering and distributed systems.
+* **AI / ML** — Multi-agent AI, predictive machine learning and intelligent automation.
+* **Architecture** — Event-Driven Architecture and distributed systems.
+* **Data Intelligence** — Time-series processing and multi-variable optimization.
+* **Product Engineering** — AI automation and technical product strategy.
+* **Operations Technology** — Supply chain, logistics, smart warehousing and robotics.
 
 
 ## Tech Stack
